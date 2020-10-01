@@ -1,0 +1,5 @@
+There once was a young man from Rhodes
+Who thought he'd make up some codes
+To join in Hacktober
+With folks from all over
+And watch as GitHub explodes
